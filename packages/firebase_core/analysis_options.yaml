@@ -13,3 +13,4 @@ analyzer:
 linter:
   rules:
     avoid_dynamic_calls: true
+- firebase_core_platform_interface/lib/src/pigeon/test_api.dart
